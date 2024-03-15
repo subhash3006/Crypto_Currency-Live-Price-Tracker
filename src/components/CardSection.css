@@ -1,0 +1,50 @@
+.card {
+    width: 11rem;
+    background-color: rgb(12, 44, 71);
+    margin-top: 0%;
+}
+
+.card-text,.card-text1,.card-text2 {
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+.positive-sentiment,.card-text1 {
+    color: #6fe31c;
+}
+
+.high-24hrs {
+    color: rgb(51, 255, 0);
+}
+
+.low-24hrs,.card-text2 {
+    color: rgb(245, 8, 8);
+}
+
+.card-section {
+    margin-top: 2px ;
+}
+
+.coin-name {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 3px ;
+    margin-bottom: 0;
+}
+
+.current-price {
+    font-size: 90px;
+    font-weight: 700;
+    color: rgb(163, 160, 160);
+    text-align: center;
+}
+
+.section-header {
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(161, 158, 158);
+    overflow: visible;
+    height: 2px;
+    margin-top: 1%;
+    padding-left:20px ;
+}

@@ -1,0 +1,21 @@
+/* CSS for Header Component */
+.form-select {
+    width: 100%;
+}
+
+.navbar-brand {
+    font-family: 'NHaasGroteskDSPro-65Md';
+}
+
+.display-2 {
+    font-size: 2.25rem;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.text-dark {
+    color: #000 ;
+    /* Set your desired dark color */
+}

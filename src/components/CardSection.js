@@ -8,7 +8,7 @@ class CardSection extends Component {
                 <div className="coin-name text-Capitalize" style={{ color: '#ffffff' }}>
                     {this.props.coinName}
                 </div>
-                <section className="row card-section">
+                <section className="row card-section" style={{display:"flex", justifyContent:"center"}}>
                     <div className="card text-white text-center m-3">
                      <div className="card-body">
                     <h6 className="card-title">Market Cap 24Hrs</h6>

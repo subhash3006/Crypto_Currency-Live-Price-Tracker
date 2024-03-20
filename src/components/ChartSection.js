@@ -145,7 +145,7 @@ export class ChartSection extends Component {
         return (
             <div>
                <div className="container">
-                    <div className="row">
+                    <div className="row" style={{display:"flex", justifyContent:"space-between"}}>
                         <div className="col" style={{ maxWidth: '610px' }}>
                   <div className="col" style={{ maxWidth: '610px' }}>
            <div id="chart">
